@@ -1,5 +1,5 @@
 # insult generator with Italian brainrot
-this is for all the people who like Italian brainrot and roasts. Use this generator to destroy your enemies with brainrot.There is 504 possible roasts.
+this is for all the people who like Italian brainrot and roasts. Use this generator to destroy your enemies with brainrot. There is 504 possible roasts.
 ### How to use
 1.load up the code into a javascript complier (yes, its coded in javascript.) I like to use https://www.programiz.com/javascript/online-compiler/ (you can copy it in the code file and paste it into the complier)
 2.once you have done step 1, run the code and watch your insult appear.
