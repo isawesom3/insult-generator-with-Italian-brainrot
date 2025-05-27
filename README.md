@@ -12,8 +12,7 @@ I simply needed to make some original insults for my little brother. but I use t
 nothing here, jack! check the code file and you should find somewhat of an explaination spread out along the code.
 
 ## A vid showcasing the project.
-Now for the project, i would have coded it on replit (check me out on replit,![Screenshot 2025-05-27 2 41 28 PM](https://github.com/user-attachments/assets/1b6518ba-3d22-453f-bf81-63dccb42978a)
- ) but ive already used up my free project making thingy...
+Now for the project, i would have coded it on replit (check me out on replit,![Screenshot 2025-05-27 2 40 38 PM](https://github.com/user-attachments/assets/8d5b1aef-089a-42d8-85cc-1606c0835ba0) ) but ive already used up my free project making thingy...
  ANYWAY, HERE'S THE VIDEO.
 [Screen recording 2025-05-27 2.32.23 PM.webm](https://github.com/user-attachments/assets/af016105-ecbd-44e5-af58-c40cf1c4817c)
 
